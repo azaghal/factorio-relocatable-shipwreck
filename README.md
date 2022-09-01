@@ -11,6 +11,9 @@ About
 Features
 --------
 
+-   Pick up and place down the shipwreck at location of your own choosing.
+-   Spawn position for player's force is set to placed shipwreck's position.
+
 
 Known issues
 ------------
