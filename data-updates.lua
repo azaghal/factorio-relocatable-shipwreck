@@ -20,6 +20,7 @@ if crash_site_spaceship then
             }
     })
 
-    crash_site_spaceship["flags"] = {"placeable-neutral", "player-creation"}
+    crash_site_spaceship["flags"] = {"placeable-neutral", "player-creation", "not-blueprintable"}
     crash_site_spaceship["minable"]["result"] = "crash-site-spaceship"
+    crash_site_spaceship["create_ghost_on_death"] = false
 end
