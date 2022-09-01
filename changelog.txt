@@ -1,8 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 999.999.999
-Date: 9999-99-99
-  Changes:
+Version: 1.0.0
+Date: 2022-09-01
   Features:
     - Ability to pick up and place down the wrecked spaceship.
     - Set spawn position for matching force next to placed wrecked spaceship.
-  Bugfixes:
