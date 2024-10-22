@@ -49,7 +49,7 @@ end
 -- @param event EventData Event data passed-on by the game engine.
 --
 function shipwreck.on_built_entity(event)
-    shipwreck.set_force_spawn_position_next_to(event.created_entity)
+    shipwreck.set_force_spawn_position_next_to(event.entity)
 end
 
 
@@ -58,7 +58,7 @@ end
 -- @param event EventData Event data passed-on by the game engine.
 --
 function shipwreck.on_robot_built_entity(event)
-    shipwreck.set_force_spawn_position_next_to(event.created_entity)
+    shipwreck.set_force_spawn_position_next_to(event.entity)
 end
 
 

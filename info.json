@@ -5,8 +5,8 @@
     "author": "azaghal",
     "homepage": "https://github.com/azaghal/factorio-relocatable-shipwreck",
     "description": "Relocate the shipwreck and player spawn position alongside with it.",
-    "factorio_version": "1.1",
+    "factorio_version": "2.0",
     "dependencies": [
-        "? base >= 1.1.0"
+        "? base >= 2.0"
      ]
 }
